@@ -15,7 +15,7 @@ O meu objetivo é trazer para discussão os meus estudos na área de programaç�
 
 Outra coisa que não deixo de lado, é aquela pegada no Marketing Digital e na boa escrita, habilidades que acredito ser um diferencial para qualquer um. Inclusive, trarei reflexões dos livros que fomentam as bases dos meus estudos e aplicações. 
 
-O foco é a prática. Aplicações. Resultados! Empreender! 
+O foco é a prática. Aplicações. Resultados! 
 
 Gerar valor na forma de conteúdo.
 
