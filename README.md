@@ -9,7 +9,7 @@
 
 👋 Olá, eu sou o Arthur Rangel!
 
-Sou formado em Engenharia Elétrica pela UFF e resolvi estudar Data Science como uma aplicação para diversas áreas.  
+Sou formado em Engenharia Elétrica pela Universidade Federal Fluminense *UFF* e resolvi estudar Data Science como uma aplicação para diversas áreas.  
 
 O meu objetivo é trazer para discussão os meus estudos na área de programação em Python, Data Science e outras tecnologias, com o intuito de alcançar soluções melhores. 
 
