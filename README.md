@@ -27,7 +27,7 @@ Acredito que a aplicação de Data Science em diversas áreas, inovará processo
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/arthurcfrangel/)
-* [Medium](https://medium.com/@arthurcf.rangel)
+* [Medium](https://medium.com/@arthurcf.rangel) **Em construção
 
 
 ## Projetos:
