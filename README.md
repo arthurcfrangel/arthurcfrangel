@@ -33,7 +33,7 @@ Acredito que a aplicação de Data Science em diversas áreas, inovará processo
 ## Projetos:
 Veja os tutoriais publicados:
 
-[Analisando os Dados do Airbnb - Brasil - Rio de Janeiro](https://bit.ly/3zlBhpp)
+[Analisando os Dados do Airbnb - Brasil - Rio de Janeiro](https://colab.research.google.com/drive/1eE79JnguMVcNjVJEV6PRj3fOurNJkViD?usp=sharing)
 
 ---
 
