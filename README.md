@@ -11,9 +11,9 @@
 
 Sou formado em Engenharia Elétrica pela Universidade Federal Fluminense *UFF* e resolvi estudar Data Science como uma aplicação para diversas áreas.  
 
-O meu objetivo é trazer para discussão os meus estudos na área de programação em Python, Data Science e outras tecnologias, com o intuito de alcançar soluções melhores. 
+O meu objetivo é trazer para discussão os meus estudos na área de programação em Python, Data Science, Machine Learning e outras tecnologias, com o intuito de alcançar soluções melhores. 
 
-Outra coisa que não deixo de lado, é aquela pegada no Marketing Digital e na boa escrita, habilidades que acredito ser um diferencial para qualquer um. Inclusive, trarei reflexões dos livros que fomentam as bases dos meus estudos e aplicações. 
+Outra coisa que não deixo de lado, o Marketing Digital e a boa escrita, habilidades que acredito ser um diferencial para qualquer um. Inclusive, trarei reflexões dos livros que fomentam as bases dos meus estudos e aplicações. 
 
 O foco é a prática. Aplicações. Resultados! 
 
