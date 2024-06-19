@@ -7,33 +7,31 @@
 # Arthur Rangel
 <sub>*Lead Data Scientist*</sub>
 
-👋 Olá, eu sou o Arthur Rangel!
+👋Hi, I´m Arthur Rangel!
 
-Sou formado em Engenharia Elétrica pela Universidade Federal Fluminense *UFF* e resolvi estudar Data Science como uma aplicação para diversas áreas.  
+Electrical Engineering degree earned at the Fluminense Federal University-UFF.
 
-O meu objetivo é trazer para discussão os meus estudos na área de programação em Python, Data Science, Machine Learning e outras tecnologias, com o intuito de alcançar soluções melhores. 
+I wanna to show in here my learning curve about [ongoing]:
 
-Outra coisa que não deixo de lado, o Marketing Digital e a boa escrita, habilidades que acredito ser um diferencial para qualquer um. Inclusive, trarei reflexões dos livros que fomentam as bases dos meus estudos e aplicações. 
+	Computer Vision
+	Data Science
+	Machine Learning
+	AI
+	Python
+	Control Engineering 
 
-O foco é a prática. Aplicações. Resultados! 
 
-Gerar valor na forma de conteúdo.
-
-A aplicação desses estudos será um grande desafio pra mim. Porém, quero compartilhar a minha jornada de aprendizado e contribuir um pouco com a sua. 
-
-Acredito que a aplicação de Data Science em diversas áreas, inovará processos e o auxiliará para a tomada de decisões mais assertivas nos seus negócios!
-
-**Background in:** Python, Machine Learning, Mathematical Optimisation and Digital Marketing.
+**Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/arthurcfrangel/)
-* [Medium](https://medium.com/@arthurcf.rangel) **Em construção
+* [Medium](https://medium.com/@arthurcf.rangel) ** Building
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Veja os tutoriais publicados [** Building]:
 
-[Analisando os Dados do Airbnb - Brasil - Rio de Janeiro](https://colab.research.google.com/drive/1eE79JnguMVcNjVJEV6PRj3fOurNJkViD?usp=sharing)
+[analyzing airbnb data - Brasil - Rio de Janeiro](https://colab.research.google.com/drive/1eE79JnguMVcNjVJEV6PRj3fOurNJkViD?usp=sharing)
 
 ---
 
