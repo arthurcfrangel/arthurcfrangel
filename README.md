@@ -13,12 +13,12 @@ Electrical Engineering degree earned at the Fluminense Federal University-UFF.
 
 I wanna to show in here my learning curve about [ongoing]:
 
-	Computer Vision
-	Data Science
-	Machine Learning
-	AI
-	Python
-	Control Engineering 
+* Computer Vision
+* Data Science
+* Machine Learning
+* AI
+*	Python
+*	Control Engineering 
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
