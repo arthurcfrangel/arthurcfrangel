@@ -11,7 +11,7 @@
 
 Electrical Engineering degree earned at the Fluminense Federal University-UFF.
 
-I wanna to show in here my learning curve about [ongoing]:
+I wanna to show in here my learning curve about: [ongoing]
 
 * Computer Vision
 * Data Science
